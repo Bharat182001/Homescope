@@ -1,0 +1,33 @@
+{
+    "name": "Creta",
+    "address": "30G, RK Puram, 1123344",
+    "description": "Best Mileage with good comfort and stability.",
+    "image": "https://bafybeihyspuo47viookt4r4zic4jrasldwilyfob7nsypwwhzr6pdxu3jm.ipfs.nftstorage.link/car2.jpg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": "80"
+        },
+        {
+            "trait_type": "Type of Car",
+            "value": "SUV"
+        },
+        {
+            "trait_type": "Seater Typer",
+            "value": 6
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 26
+        },
+        {
+            "trait_type": "Model",
+            "value": 2020
+        },
+        {
+            "trait_type": "Sunroof",
+            "value": "No"
+        }
+    ]
+}

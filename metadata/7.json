@@ -1,0 +1,33 @@
+{
+    "name": "GLF Cooperative Society",
+    "address": "279-Z7, PalamVihar, New Delhi, 100092",
+    "description": "Shelter from weather, Security, Living Space, Privacy, to store belongings, and to comfortably live and work.",
+    "image": "https://bafybeihyspuo47viookt4r4zic4jrasldwilyfob7nsypwwhzr6pdxu3jm.ipfs.nftstorage.link/building1.jpg",
+    "id": "7",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": "250"
+        },
+        {
+            "trait_type": "High Security",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Swimming Pool",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "3BHK+",
+            "value": "Available"
+        },
+        {
+            "trait_type": "Gym+Spa",
+            "value": "Available"
+        },
+        {
+            "trait_type": "StoreHouse Included",
+            "value": "Yes"
+        }
+    ]
+}

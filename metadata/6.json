@@ -1,0 +1,33 @@
+{
+    "name": "Hyndai I-20",
+    "address": "89F-B2, TilakNagar, New Delhi",
+    "description": "Great Payload Capacity with fine engine",
+    "image": "https://bafybeihyspuo47viookt4r4zic4jrasldwilyfob7nsypwwhzr6pdxu3jm.ipfs.nftstorage.link/car3.jpg",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": "95"
+        },
+        {
+            "trait_type": "Type of Car",
+            "value": "Sedan"
+        },
+        {
+            "trait_type": "Seater Typer",
+            "value": 5
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 24
+        },
+        {
+            "trait_type": "Model",
+            "value": 2022
+        },
+        {
+            "trait_type": "Sunroof",
+            "value": "Yes"
+        }
+    ]
+}

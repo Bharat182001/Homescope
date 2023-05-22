@@ -1,0 +1,33 @@
+{
+    "name": "ABC Cooperative Society",
+    "address": "172-3F, Greater Noida, 134522",
+    "description": "Shelter from weather, Security, Living Space, Privacy, to store belongings, and to comfortably live and work.",
+    "image": "https://bafybeihyspuo47viookt4r4zic4jrasldwilyfob7nsypwwhzr6pdxu3jm.ipfs.nftstorage.link/building3.jpg",
+    "id": "9",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": "180"
+        },
+        {
+            "trait_type": "High Security",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Swimming Pool",
+            "value": "Np"
+        },
+        {
+            "trait_type": "3BHK+",
+            "value": "Not Available"
+        },
+        {
+            "trait_type": "Gym+Spa",
+            "value": "Available"
+        },
+        {
+            "trait_type": "StoreHouse Included",
+            "value": "Yes"
+        }
+    ]
+}

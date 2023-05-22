@@ -1,0 +1,33 @@
+{
+    "name": "GoLang",
+    "address": "27E, Jia Sarai, Near IIT Gate, Hauz Khas",
+    "description": "Car with a smooth driving experience having good mileage",
+    "image": "https://bafybeihyspuo47viookt4r4zic4jrasldwilyfob7nsypwwhzr6pdxu3jm.ipfs.nftstorage.link/car1.jpg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": "103"
+        },
+        {
+            "trait_type": "Type of Car",
+            "value": "Sports Car"
+        },
+        {
+            "trait_type": "Seater Typer",
+            "value": 2
+        },
+        {
+            "trait_type": "Mileage",
+            "value": 6
+        },
+        {
+            "trait_type": "Model",
+            "value": 2021
+        },
+        {
+            "trait_type": "Sunroof",
+            "value": "Yes"
+        }
+    ]
+}
